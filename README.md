@@ -95,9 +95,9 @@ pca3d(prcomp(hdata, scale = FALSE, center = FALSE),
 On the 3D plot we can see the why these elements were assigned to each cluster.  
 
 VII -  Cluster assignments:	# of elements:	Groups:
-|1.|11| 1| 4|14|15|16|26|27|31|32|33|41|  |  |  |  |  |  |  |
-|2.|18| 2| 3| 5| 6| 7| 8| 9|10|11|13|19|20|22|28|35|37|40|42|
-|3.|14|12|17|18|21|23|24|25|29|30|34|36|38|39|43|  |  |  |  |
+| 1. | 11 |  1 |  4 | 14 | 15 | 16 | 26 | 27 | 31 | 32 | 33 | 41 |    |    |    |    |    |    |    |
+| 2. | 18 |  2 |  3 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 13 | 19 | 20 | 22 | 28 | 35 | 37 | 40 | 42 |
+| 3. | 14 | 12 | 17 | 18 | 21 | 23 | 24 | 25 | 29 | 30 | 34 | 36 | 38 | 39 | 43 |    |    |    |    |
 
 We can look across our three clusters and assess the probabilities of cluster membership. Plot below presents the distribution of the probabilities for each of 43 observations. 
 ```
