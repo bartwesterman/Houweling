@@ -1,5 +1,5 @@
 # Houweling | Clustering
-Identification of personalized multi-target therapies against glioblastoma identifies a synergistic interaction between EGFR/HER2/MCL1 and BCL2
+Part of manuscript "Identification of personalized multi-target therapies against glioblastoma identifies a synergistic interaction between EGFR/HER2/MCL1 and BCL2"
 Last update: 11/1/2022
 
 ## 1.	Introduction
