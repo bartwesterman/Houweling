@@ -2,7 +2,7 @@
 
 Written by Anna Giczewska
 
-Supplementary files can be found through this link: https://github.com/bartwesterman/Houweling/tree/Supplementary-files
+Supplementary files for reviewers can be found through this (temporal) link: https://github.com/bartwesterman/Houweling/tree/Supplementary-files
 
 Part of manuscript "Identification of personalized multi-target therapies against glioblastoma identifies a synergistic interaction between EGFR/HER2/MCL1 and BCL2" Last update: 11/1/2022
 
