@@ -2,7 +2,7 @@
 
 Written by Anna Giczewska
 
-### Note: Supplementary files can be found through this link: 
+### Note: Supplementary files of Houweling et al, "Identification of personalized multi-target therapies against glioblastoma..." can be found through this link: 
 https://www.dropbox.com/sh/bfu6nag1us3j01m/AABLTpvgEubwCHouRqHC45Aoa?dl=0
 
 Part of manuscript "Identification of personalized multi-target therapies against glioblastoma identifies a synergistic interaction between EGFR/HER2/MCL1 and BCL2" Neurooncol Adv. 2023 Jun 13;5(1):vdad073. doi: 10.1093/noajnl/vdad073. https://pmc.ncbi.nlm.nih.gov/articles/PMC10347974/ 
